@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:59544350560:android:aca17325af661cd8c77805</string>
+    <string name="google_api_key">AIzaSyDrT_AjqUOrOv8Lu6BqZt5qTi2SRfPn7lw</string>
+    <string name="firebase_database_url">https://healthnourish-main.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">59544350560</string>
+    <string name="project_id">healthnourish-main</string>
+    <string name="default_web_client_id">AIzaSyDrT_AjqUOrOv8Lu6BqZt5qTi2SRfPn7lw</string>
+</resources>

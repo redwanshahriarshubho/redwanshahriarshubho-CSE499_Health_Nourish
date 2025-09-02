@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59544350560",
+    "project_id": "healthnourish-main",
+    "storage_bucket": "healthnourish-main.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59544350560:android:aca17325af661cd8c77805",
+        "android_client_info": {
+          "package_name": "com.healthnourish.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrT_AjqUOrOv8Lu6BqZt5qTi2SRfPn7lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
